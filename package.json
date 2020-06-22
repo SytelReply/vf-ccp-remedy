@@ -1,0 +1,27 @@
+{
+  "name": "remedy",
+  "version": "1.0.0",
+  "description": "remedy api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SytelReply/vf-ccp-remedy.git"
+  },
+  "author": "Sharif Uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SytelReply/vf-ccp-remedy/issues"
+  },
+  "homepage": "https://github.com/SytelReply/vf-ccp-remedy#readme",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "libxmljs": "^0.19.7",
+    "xml2js": "^0.4.23"
+  }
+}
